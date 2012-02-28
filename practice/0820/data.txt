@@ -1,0 +1,5 @@
+1 lixiang 70 80 90 80
+2 zhangsan 60 70 70 80
+3 wanghuan 67 78 87 56
+4 zhaoliu 56 54 56 67
+5 caohuan 67 78 87 67
