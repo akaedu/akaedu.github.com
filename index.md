@@ -16,7 +16,7 @@ category: tech
 <ul>
 <li> 
 <a href="http://learn.akae.cn/" target="_blank">Linux C编程一站式学习</a> 
-<a href="/book/html-chunk/" target="_blank">[本站镜像]</a>
+<a href="/book/" target="_blank">[本站镜像]</a>
 </li>
 </ul>
 
