@@ -14,7 +14,7 @@ category: tech
   <a href="/book/" target="_blank">[本站镜像]</a>
 </li>
 <li> 
-  <a href="/code/c_notes.html">课堂笔记 (2012年46期C阶段课程串讲)</a> 
+  <a href="/code/c_notes.html">理论知识复习回顾 (2012年46期C阶段课程串讲)</a> 
 </li> 
 </ul>
 
