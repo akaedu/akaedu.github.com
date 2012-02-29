@@ -1,13 +1,9 @@
----
-layout: post
-title: C Notes
----
+
 <pre>
 
-2012-2-20 亚嵌教育 46期C语言复习串讲课堂笔记
+#亚嵌教育 46期C语言复习串讲课堂笔记 (2012-2-20)
 
-
-day1: section 1
+#知识点汇总 (以下知识点内容基本按照《一站式编程》章节顺序)
 程序概念
 	指令 （代码段）
 		函数调用 printf()
@@ -85,7 +81,6 @@ int main(int argc, char * argv[])
 		// 单行，可以后跟 //
 		/* */ 多行，不能嵌套  
 	
-day1: section 2
 数据
 	进制 (10-decimal 2-binary 16-hex）
 	逻辑运算 (与AND, 或OR, 非NOT)
@@ -210,7 +205,6 @@ ASCII 码
 	printf("a = %d\n", a);  打印的是 9
 	printf("b = %d\n", b);  打印的是 17
 	
-day1: section 3
 分支结构
 	逻辑表达式
 
@@ -219,7 +213,7 @@ if语句
 		语句块的中间可以出现局部变量
 		if/if/else 最后的 else 是就近结合
 	
-	if 有个特殊性
+	if 有个特殊性, if else 组合中 else 前面不能有分号
 	if ()
 		statement;
 	
@@ -242,6 +236,7 @@ if语句
 	
 	}
 	
+	利用 do while() 语句需要用分号表示结束 的特点	
 	if ()		// 对
 		do
 		{
@@ -252,31 +247,11 @@ if语句
 	
 	}
 
-	if (btn1_is_down())
-	{
-		a = 1;
-		b = 1;
-	}
-	else
-	{
-		a = 0;
-		b = 0;
-	}	
-	
-	if (btn2_is_down())
-	{
-		a = 1;
-		b = 1;
-	}
-	else
-	{
-		a = 0;
-		b = 0;
-	}	
-
-错误举例： OPEN 后面的分号，语法不能通过
+题目：请写一个宏定义 OPEN，替换 a = 1; b = 1; 这2条语句
+错误举例： 
 #define OPEN		{ a = 1; b = 1; }
-#define CLOSE	{ a = 0; b = 0; }
+#define CLOSE		{ a = 0; b = 0; }
+问题在于 OPEN 后面的分号，语法不能通过
 	if (btn_is_down())
 		OPEN;
 	else
@@ -310,7 +285,6 @@ break 语句
 	goto 语句：标号 label 后面需要有冒号 label:
 	(汇编语法中 .global .globl 都可以 )
 	
-day1: section 5	
 数组：
 	数组定义时，下标可以不可以是变量？
 	int b = 100;
@@ -374,7 +348,6 @@ day1: section 5
 
 题目：用联合union来判断机器是大端存储还是小端存储。
 
-day1: section 6
 简单函数
 	在汇编语言里面，没有一个非常合适的特性来支持
 	在机器上最终C语言的函数，转为汇编的方法不尽相同
@@ -479,7 +452,6 @@ int func(int a, int b)	// a, b 不可省略
 函数调用的一种写法	
 	(void) printf("hello, world\n");
 	
-day2：setction 1
 x86汇编基础
 GCC - AT&T 汇编格式
 	.section .globl .data .text
@@ -497,7 +469,6 @@ GCC - AT&T 汇编格式
 栈：%ebp(底), %esp(顶)
 数据：%esi(源), %edi(目的) 
 
-day2：setction 2
 ELF 格式
 	可执行文件.elf，可链接文件.o，动态库.so
 	结构组成：ELF Header, Program/Section Header Table, Segments/Sections
@@ -561,7 +532,6 @@ main函数调用
 	寄存器变量 register
 		一般都分配到寄存器上
 		
-day2: section 3
 结构体和联合体
 	Alignment 对齐
 	Padding 填充
@@ -636,7 +606,6 @@ volatile 限定符
 	ldconfig -v 生成 ld.so.cache 文件（from ld.so.conf)
 	ln -s old new 建立符号链接
 	
-day2: section 4
 Makefile
 	基本内容：目标Target，条件Prerequisite，命令Command
 	举例： 	target: prerequisite 
@@ -689,7 +658,6 @@ makefile 的函数
 	$(dir)	$(notdir)	$(suffix)	$(basename)
 	$(addsuffix)	$(addprefix)	$(join)
 
-day2: section 5	
 预处理
 	基本步骤：	1. 三连符 'a' 'h' 的处理
 			2. 解决 \ 多行连接成一行问题
@@ -790,7 +758,6 @@ void _Assert(char * mesg)
 	
 __func__	这是一个变量名，不是预处理的宏，它的类型是一个字符串
 	
-day2: section 6
 指向指针的指针
 	int* *p;
 指针数组	
@@ -860,8 +827,6 @@ int main(int argc, char * argv[])
 	size_t fread(void * ptf, size_t size, size_t nmemb, FILE * fp);
 	size_t fwrite(const void * ptf, size_t size, size_t nmemb, FILE * fp);
 	
-	
-day3: section 1
 Niklaus Wirth	
 	 数据结构 + 算法 = 程序
 
@@ -890,7 +855,6 @@ Niklaus Wirth
 	典型应用：解决八皇后问题
 	回溯法的关键是：当退回到某个可能的节点时，当时的状态应得以恢复
 
-day2: section 2	
 广度优先搜索
 	引入新的数据结构－－队列：
 	特点是：2种基本操作--Enqueue (入队) ＆ Dequeue (出队)
@@ -927,7 +891,6 @@ day2: section 2
 	/include/linux/list.h 	900行左右的实现
 	其中包括了 inline 内联函数实现的链表操作，以及 常用的宏操作
 	
-day2: section 3
 二叉树 Binary Tree
 	节点的定义：link l, r;
 	满二叉树：所有子节点都有左右子树，节点总数是 1，3，7 (2^N-1)
