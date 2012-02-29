@@ -20,6 +20,13 @@ category: tech
 </li>
 </ul>
 
+##视频学习
+<ul>
+<li>
+  <a href="http://akaedu.gensee.com/webcast/site/ondemand" target="_blank">视频点播</a> 
+</li>
+</ul>
+
 ##编码练习
 <ul>
 <li> <a href="/post/chapter_01.html">#1 Linux基本命令</a> </li>
@@ -43,10 +50,7 @@ category: tech
 <li> <a href="/post/chapter_19.html">#19 二叉树</a> </li>
 <li> <a href="/post/chapter_20.html">#20 查字典项目开题</a> </li>
 </ul>
-##视频学习
-<ul>
-<li><a href="http://akaedu.gensee.com/webcast/site/ondemand" target="_blank">视频点播</a> </li>
-</ul>
+
 <p><br /><b>Contact maintainer:</b></p>
 
 <blockquote>
