@@ -3,21 +3,20 @@ layout: post
 title: 亚嵌教育
 category: tech 
 ---
-<li> <a href="/code/primary_coding.html">范例代码基础</a> </li> <br>
-<li> <a href="notice.html">编程练习题目</a> </li> <br>
-<li> <a href="/code/c_notes.html">课堂笔记 (2012年46期C阶段课程串讲)</a> </li> <br>
+
 ##理论学习
 <ul>
 <li> 
   <a href="http://happypeter.github.com/LGCB/book/index.html" target="_blank">Linux Guide for Chinese Beginners</a> 
   <a href="http://happypeter.github.com/LGCB/book/zh/" target="_blank">[中文版]</a>
 </li>
-</ul>
-<ul>
 <li> 
-<a href="http://learn.akae.cn/" target="_blank">Linux C编程一站式学习</a> 
-<a href="/book/" target="_blank">[本站镜像]</a>
+  <a href="http://learn.akae.cn/" target="_blank">Linux C编程一站式学习</a> 
+  <a href="/book/" target="_blank">[本站镜像]</a>
 </li>
+<li> 
+  <a href="/code/c_notes.html">课堂笔记 (2012年46期C阶段课程串讲)</a> 
+</li> 
 </ul>
 
 ##视频学习
@@ -28,6 +27,12 @@ category: tech
 </ul>
 
 ##编码练习
+<ul>
+<li> <a href="/code/primary_coding.html">范例代码基础</a> </li> <br>
+<li> <a href="notice.html">编程练习题目</a> </li> <br>
+</ul>
+
+##知识点汇总
 <ul>
 <li> <a href="/post/chapter_01.html">#1 Linux基本命令</a> </li>
 <li> <a href="/post/chapter_02.html">#2 开发环境</a> </li>
