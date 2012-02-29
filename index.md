@@ -3,7 +3,6 @@ layout: post
 title: 亚嵌教育
 category: tech 
 ---
-
 ##理论学习
 <ul>
 <li> 
@@ -28,8 +27,8 @@ category: tech
 
 ##编码练习
 <ul>
-<li> <a href="/code/primary_coding.html">范例代码基础</a> </li> <br>
-<li> <a href="notice.html">编程练习题目</a> </li> <br>
+<li> <a href="/code/primary_coding.html">范例代码基础</a> </li> 
+<li> <a href="notice.html">编程练习题目</a> </li> 
 </ul>
 
 ##知识点汇总
