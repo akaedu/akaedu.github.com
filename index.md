@@ -22,7 +22,7 @@ category: tech
 <ul>
 <li>
   <a href="http://akaedu.gensee.com/webcast/site/ondemand" target="_blank">视频点播</a> 
-  <a href="/video/index.html" target="_blank">视频列表</a> 
+  <a href="/video/list.html" target="_blank">点播视频列表</a> 
 </li>
 </ul>
 
