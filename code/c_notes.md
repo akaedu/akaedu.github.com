@@ -2,9 +2,10 @@
 layout: post
 title: C Notes
 ---
+<pre>
 
 2012-2-20 亚嵌教育 46期C语言复习串讲课堂笔记
-如有疑问，请加李明老师QQ: 2372614758
+
 
 day1: section 1
 程序概念
@@ -1007,3 +1008,5 @@ day2: section 3
 	gdb
 		相关命令用法
 			
+
+</pre>
