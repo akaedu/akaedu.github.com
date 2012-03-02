@@ -32,6 +32,7 @@ category: tech
 <ul>
 <li> <a href="/code/primary_coding.html">范例代码基础</a> </li> 
 <li> <a href="http://akaedu.github.com/practice">课后练习题目</a> </li> 
+<li> <a href="http://akaedu.codepad.org">在线编程环境</a> </li> 
 </ul>
 
 ##知识点汇总
