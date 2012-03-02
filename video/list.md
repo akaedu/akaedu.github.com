@@ -52,6 +52,8 @@ title: 点播视频列表
 <li> <a href="http://akaedu.gensee.com/webcast/site/vod/play-53b47879814048f4af8176ee5ed00b2c">#1 C语言编程—状态机编程思想</a> </li>
 <li> <a href="http://akaedu.gensee.com/webcast/site/vod/play-e7ce0fbfffd649968c0a2475d8634892">#2 C语言编程—数据驱动编程</a> </li>
 <li> <a href="http://www.akaedu.org/page/video-750.html">#3 李明老师分享学习方法</a> </li>
+<li> <a href="http://www.akae.cn/video/3/index.html">#4 一个嵌入式Linux系统工程师的映像文件</a> </li>
+<li> <a href="http://www.akae.cn/video/2/index.html">#5 嵌入式开发工程师的学习目标</a> </li>
 </ul>
 
 ##汪中子老师在线课堂
