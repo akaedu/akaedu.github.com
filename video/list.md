@@ -53,7 +53,13 @@ title: 点播视频列表
 <li>
 <a href="http://akaedu.gensee.com/webcast/site/vod/play-e3d22038605c428f9e307da3489c3959">#11 软件开发过程（下）</a> 
 </li>
+</ul>
 
+##王波老师在线课堂
+<ul>
+<li> <a href="http://akaedu.gensee.com/webcast/site/vod/play-f2678a3257fb4b1bb9914a983737f11c">#1 第1-2章串讲（程序、常量、变量、表达式、简单函数）</a> </li>
+<li> <a href="http://akaedu.gensee.com/webcast/site/vod/play-7a5a39b87ae14a3390cbb2e335de6324">#2 第3-5章串讲（分支语句、return语句、循环语句）</a> </li>
+<li> <a href="http://akaedu.gensee.com/webcast/site/vod/play-a0f32b69891e4088a1266dad66b13fe8">#3 第6-7章串讲（深入理解函数-return语句、增量式开发、递归）</a> </li>
 </ul>
 
 ##李明老师在线课堂
