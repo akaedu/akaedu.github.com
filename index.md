@@ -14,6 +14,7 @@ category: tech
   <a href="/book/" target="_blank">[本站镜像]</a>
 </li>
 <li> 
+  <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
   <a href="/code/c_notes.html">理论知识复习回顾 (2012年46期C阶段课程串讲)</a> 
 </li> 
 </ul>
@@ -24,7 +25,7 @@ category: tech
   <a href="http://akaedu.gensee.com/webcast/site/ondemand" target="_blank">视频点播</a> 
 </li>
 <li>
-<img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
+  <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
   <a href="/video/list.html" target="_blank">亚嵌名师在线课堂</a> 
 </li>
 </ul>
@@ -33,7 +34,10 @@ category: tech
 <ul>
 <li> <a href="/code/primary_coding.html">范例代码基础</a> </li> 
 <li> <a href="http://akaedu.github.com/practice">课后练习题目</a> </li> 
-<li> <a href="http://akaedu.codepad.org">在线编程环境</a> </li> 
+<li> 
+  <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
+  <a href="http://akaedu.codepad.org">在线编程环境</a> 
+</li> 
 </ul>
 
 ##知识点汇总
