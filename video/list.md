@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 点播视频列表
+title: 亚嵌名师在线课堂
 ---
 ##翟开源老师在线课堂
 <ul>
