@@ -6,11 +6,12 @@ category: tech
 ##理论学习
 <ul>
 <li> 
-  <a href="http://happypeter.github.com/LGCB/book/index.html" target="_blank">Linux Guide for Chinese Beginners</a> 
+  <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
+  <a href="http://happypeter.github.com/LGCB/book/index.html" target="_blank">Linux Guide for Chinese Beginners</a> &nbsp; &nbsp; &nbsp; &nbsp; 
   <a href="http://happypeter.github.com/LGCB/book/zh/" target="_blank">[中文版]</a>
 </li>
 <li> 
-  <a href="http://learn.akae.cn/" target="_blank">Linux C编程一站式学习</a> 
+  <a href="http://learn.akae.cn/" target="_blank">Linux C编程一站式学习</a> &nbsp; &nbsp; &nbsp; &nbsp; 
   <a href="/book/" target="_blank">[本站镜像]</a>
 </li>
 <li> 
