@@ -13,7 +13,7 @@ title: 点播视频列表
 <ul>
 <li>
 <a href="http://www.akae.cn/study/akaedu/sjs/C1.fsp.swf/">#1 C语言编程-基本概念</a>  
-<a href="http://www.akae.cn/study/akaedu/sjs/%e7%ac%ac1%e8%ae%b2-%e7%a8%8b%e5%ba%8f%e7%9a%84%e5%9f%ba%e6%9c%ac%e6%a6%82%e5%bf%b5.pdf">[课件下载]</a>
+<a href="http://www.akae.cn/study/akaedu/sjs/%e7%ac%ac1%e8%ae%b2-%e7%a8%8b%e5%ba%8f%e7%9a%84%e5%9f%ba%e6%9c%ac%e6%a6%82%e5%bf%b5.pdf">       [课件下载]</a>
 </li>
 <li>
 <a href="http://www.akae.cn/study/akaedu/sjs/C1.fsp.swf/">#2 C语言编程-常量变量表达式</a>  
