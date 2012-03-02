@@ -16,7 +16,7 @@ title: 点播视频列表
 <a href="http://www.akae.cn/study/akaedu/sjs/%e7%ac%ac1%e8%ae%b2-%e7%a8%8b%e5%ba%8f%e7%9a%84%e5%9f%ba%e6%9c%ac%e6%a6%82%e5%bf%b5.pdf">[pdf课件下载]</a>
 </li>
 <li>
-<a href="http://www.akae.cn/study/akaedu/sjs/C1.fsp.swf/">#2 C语言编程-常量变量表达式</a>  &nbsp; &nbsp; &nbsp; 
+<a href="http://www.akae.cn/study/akaedu/sjs/C1.fsp.swf/">#2 C语言编程-常量变量表达式</a>  &nbsp; &nbsp; 
 <a href="http://www.akae.cn/study/akaedu/sjs/%e7%ac%ac2%e8%ae%b2-%e5%b8%b8%e9%87%8f%e5%8f%98%e9%87%8f%e8%a1%a8%e8%be%be%e5%bc%8f.pdf">[pdf课件下载]</a>
 </li>
 <li>
@@ -28,7 +28,7 @@ title: 点播视频列表
 <a href="http://www.akae.cn/study/akaedu/sjs/%e7%ac%ac4%e8%ae%b2-%e5%88%86%e6%94%af%e8%af%ad%e5%8f%a5.pdf">[pdf课件下载]</a>
 </li>
 <li>
-<a href="http://www.akae.cn/study/akaedu/sjs/C1.fsp.swf/">#5 C语言编程-深入理解函数</a>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<a href="http://www.akae.cn/study/akaedu/sjs/C1.fsp.swf/">#5 C语言编程-深入理解函数</a>  &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="http://www.akae.cn/study/akaedu/sjs/%e7%ac%ac5%e8%ae%b2-%e6%b7%b1%e5%85%a5%e7%90%86%e8%a7%a3%e5%87%bd%e6%95%b0.pdf">[pdf课件下载]</a>
 </li>
 <li>
