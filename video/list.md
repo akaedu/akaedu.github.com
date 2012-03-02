@@ -49,8 +49,8 @@ title: 点播视频列表
 
 ##李明老师在线课堂
 <ul>
-<li> <a href="http://akaedu.gensee.com/webcast/site/vod/play-e7ce0fbfffd649968c0a2475d8634892">#1 C语言编程—数据驱动编程</a> </li>
-<li> <a href="http://akaedu.gensee.com/webcast/site/vod/play-53b47879814048f4af8176ee5ed00b2c">#2 C语言编程—状态机编程思想</a> </li>
+<li> <a href="http://akaedu.gensee.com/webcast/site/vod/play-53b47879814048f4af8176ee5ed00b2c">#1 C语言编程—状态机编程思想</a> </li>
+<li> <a href="http://akaedu.gensee.com/webcast/site/vod/play-e7ce0fbfffd649968c0a2475d8634892">#2 C语言编程—数据驱动编程</a> </li>
 </ul>
 
 ##汪中子老师在线课堂
