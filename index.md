@@ -24,6 +24,7 @@ category: tech
   <a href="http://akaedu.gensee.com/webcast/site/ondemand" target="_blank">视频点播</a> 
 </li>
 <li>
+<img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
   <a href="/video/list.html" target="_blank">亚嵌名师在线课堂</a> 
 </li>
 </ul>
