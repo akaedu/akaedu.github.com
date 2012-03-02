@@ -4,7 +4,9 @@ title: 点播视频列表
 ---
 ##翟开源老师在线课堂
 <ul>
-<li> <a href="http://akaedu.gensee.com/webcast/site/vod/play-fef630a8aabe4ff89145768df2b88a13">#0 程序员是怎样炼成的？</a> </li>
+<li> <a href="http://akaedu.gensee.com/webcast/site/vod/play-fef630a8aabe4ff89145768df2b88a13">#0 程序员是怎样炼成的？ </a>  
+<a href="http://akaedu.gensee.com/webcast/site/vod/play-90ff6797a4334f60866477e71295680d"> [重录版本]</a> 
+</li>
 </ul>
 
 ##宋劲杉老师在线课堂
@@ -45,6 +47,13 @@ title: 点播视频列表
 <a href="http://www.akae.cn/study/akaedu/sjs/C1.fsp.swf/">#9 C语言编程-编码风格</a>  
 <a href="http://www.akae.cn/study/akaedu/sjs/%e7%ac%ac9%e8%ae%b2-%e7%bc%96%e7%a0%81%e9%a3%8e%e6%a0%bc.pdf">课件下载</a>
 </li>
+<li>
+<a href="http://akaedu.gensee.com/webcast/site/vod/play-f933b78034244e96bdededcc176bb1ba">#10 软件开发过程（上）</a> 
+</li>
+<li>
+<a href="http://akaedu.gensee.com/webcast/site/vod/play-e3d22038605c428f9e307da3489c3959">#11 软件开发过程（下）</a> 
+</li>
+
 </ul>
 
 ##李明老师在线课堂
