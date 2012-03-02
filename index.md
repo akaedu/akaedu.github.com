@@ -8,15 +8,17 @@ category: tech
 <li> 
   <a href="http://learn.akae.cn/" target="_blank">Linux C编程一站式学习</a> &nbsp; &nbsp;  
   <a href="/book/" target="_blank">[本站镜像]</a>
+  <font size=4> （San Soong老师维护） </font>
 </li>
 <li> 
   <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
   <a href="http://happypeter.github.com/LGCB/book/index.html" target="_blank">Linux Guide for Chinese Beginners</a> &nbsp; &nbsp; 
   <a href="http://happypeter.github.com/LGCB/book/zh/" target="_blank">[中文版]</a>
+  <font size=4> （Peter Wang老师维护） </font>
 </li>
 <li> 
   <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
-  <a href="/code/c_notes.html">C语言编程知识复习回顾 (整理自2012年46期C阶段课程串讲笔记)</a> 
+  <a href="/code/c_notes.html">C语言编程知识复习回顾 (整理自2012年46期C阶段课程串讲笔记)</a>   
 </li> 
 </ul>
 
