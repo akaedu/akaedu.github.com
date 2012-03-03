@@ -52,7 +52,7 @@ http://wenku.baidu.com/view/395f895d312b3169a451a489.html
 				0x00, 0x00
 			};
 	
-	char sub = '#';
+	char sub = 'a';
 	
 	int main(void)
 	{
