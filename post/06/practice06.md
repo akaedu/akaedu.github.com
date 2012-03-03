@@ -28,3 +28,65 @@ http://tsoukw.cnblogs.com/archive/2006/07/13/449588.html
 
 有兴趣的同学可以尝试在终端 Console 下显示 ”汉“ 字
 http://wenku.baidu.com/view/395f895d312b3169a451a489.html
+
+参考代码
+
+  #include <stdio.h>
+		
+	char buf[32] = { 	
+				0x40, 0x08,
+				0x37, 0xfc,
+				0x10, 0x08,
+				0x82, 0x08,
+				0x62, 0x08,
+				0x22, 0x10,
+				0x09, 0x10,
+				0x11, 0x20,
+				0x20, 0xa0,
+				0xe0, 0x40,
+				0x20, 0xc0,
+				0x21, 0x10,
+				0x22, 0x08,
+				0x24, 0x0e,
+				0x08, 0x04,
+				0x00, 0x00
+			};
+	
+	char sub = '#';
+	
+	int main(void)
+	{
+		int i = 0, j;
+	
+		printf("hello, font demo \n");
+		//scanf("%c", &sub);
+	
+		while (i < 32)
+		{
+			for (j = 7; j >= 0; j--)
+			{
+				char c = buf[i];
+	
+				if (c & (1<<j))
+					printf("%c", sub);
+				else
+					printf(" ");
+			}	
+			i++;
+	
+			for (j = 7; j >= 0; j--)
+			{
+				char c = buf[i];
+	
+				if (c & (1<<j))
+					printf("%c", sub);
+				else
+					printf(" ");
+			}	
+			i++;
+	
+			printf("\n");
+		}
+		
+		return 0;
+	}
