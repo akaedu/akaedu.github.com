@@ -20,18 +20,18 @@ title: 练习题
 
 
 ### 课后阅读
-漫谈字符集和编码
+漫谈字符集和编码 <br>
 http://wenku.baidu.com/view/cb9fe505cc17552707220865.html
 
-编码,charset,乱码,unicode,utf-8与net简单释义
+编码,charset,乱码,unicode,utf-8与net简单释义 <br>
 http://tsoukw.cnblogs.com/archive/2006/07/13/449588.html
 
-有兴趣的同学可以尝试在终端 Console 下显示 ”汉“ 字
+有兴趣的同学可以尝试在终端 Console 下显示 ”汉“ 字 <br>
 http://wenku.baidu.com/view/395f895d312b3169a451a489.html
 
 参考代码
 
-  #include <stdio.h>
+	#include <stdio.h>
 		
 	char buf[32] = { 	
 				0x40, 0x08,
