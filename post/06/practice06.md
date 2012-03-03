@@ -17,3 +17,14 @@ title: 练习题
 
 ####5.
 用位运算实现随机生成无重复的26个字母，要求不允许使用数组，结构体；（提示：用一个整型数记录产生的字母）
+
+
+### 课后阅读
+漫谈字符集和编码
+http://wenku.baidu.com/view/cb9fe505cc17552707220865.html
+
+编码,charset,乱码,unicode,utf-8与net简单释义
+http://tsoukw.cnblogs.com/archive/2006/07/13/449588.html
+
+有兴趣的同学可以尝试在终端 Console 下显示 ”汉“ 字
+http://wenku.baidu.com/view/395f895d312b3169a451a489.html
