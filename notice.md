@@ -5,7 +5,8 @@ title: 网络公开课计划
 
 #1 公开讲座《嵌入式开发工程师的学习目标》 （1.5小时）
 详见 http://www.akae.cn/video/2/index.html
-    Linux 开发工程师学习目标
+
+	Linux 开发工程师学习目标
 	嵌入式开发工程师学习目标
 	系统工程师学习目标
 	嵌入式Linux系统工程师学习目标
@@ -41,6 +42,7 @@ title: 网络公开课计划
 
 #3 就业指导和学习答疑《嵌入式程序员的就业》 （2小时）
 详见 http://akaedu.gensee.com/webcast/site/vod/play-fef630a8aabe4ff89145768df2b88a13
+
 	一、程序员的修养　　		
 　　		什么是“好代码”
 		什么是“好的学习方法”
