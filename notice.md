@@ -44,7 +44,7 @@ title: 网络公开课计划
 详见 http://akaedu.gensee.com/webcast/site/vod/play-fef630a8aabe4ff89145768df2b88a13
 
 	一、程序员的修养　　		
-　　		什么是“好代码”
+		什么是“好代码”
 		什么是“好的学习方法”
 
 	二、程序员与就业
