@@ -400,5 +400,15 @@ title: 亚嵌就业班50期课堂笔记
 	
 	printf("%dA %dB \n", *nA, *nB);
 
+	// 主程序关键参考代码
+	while (1)
+	{
+		scanf("%4s", strb);
+		comp_str(stra, strb, &na, &nb);
+		printf("%dA %dB \n", na, nb);
+
+		if (na == 4)
+			break;
+	}
 
 		
