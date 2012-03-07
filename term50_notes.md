@@ -178,7 +178,7 @@ title: 亚嵌就业班50期课堂笔记
 	int * p;
 	*p = 1;		// wrong!
 	p = 1;		// no error
-	给指针本身赋值p=是允许，但如果用指针取内容*p= 这是有风险的，会出段错误。
+	给指针本身赋值p=1是允许，但如果用指针取内容 *p=1 这是有风险的，会出段错误。
 
 ###6 指针的重要用法-传参
 用于获取用户输入
@@ -289,6 +289,7 @@ title: 亚嵌就业班50期课堂笔记
 
 ###5 动态内存分配 allocate
 堆heap 和 栈stack 的概念
+
 	&a = 0xbf9cb86c 	栈空间 3G 向下
 
 	p = 0x8129008 		堆空间 向上
@@ -296,7 +297,8 @@ title: 亚嵌就业班50期课堂笔记
 	&b = 0x804a018 		数据段（全局变量）跟着代码段
 	main = 0x8048414 	代码段最小
 
-	
+常用函数	
+
 	void * malloc(size_t size);
 	void free(void * ptr);
 
@@ -304,6 +306,7 @@ title: 亚嵌就业班50期课堂笔记
 	void realloc(void * ptr, size_t size);
 	
 	void * alloca(size_t size);
+
 
 #Chap 10:字符串
 ##10.1 基本概念
