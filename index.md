@@ -69,7 +69,7 @@ category: tech
 </li>
 <li> 
  <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
- <a href="test.html">新增50期课堂笔记 (位运算/指针和数组/字符串) </a> 
+ <a href="term50_notes.html">新增50期课堂笔记 (位运算/指针和数组/字符串) </a> 
 </li>
 </ul>
  
