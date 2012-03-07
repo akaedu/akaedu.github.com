@@ -102,12 +102,9 @@ title: 亚嵌就业班50期课堂笔记
 
 用位运算实现随机生成无重复的10个数字(0-9)，要求不允许使用数组
 
-##5 请参考 
-http://wenku.baidu.com/view/cb9fe505cc17552707220865.html
-
-http://wenku.baidu.com/view/395f895d312b3169a451a489.html
-
-在终端 Console 下显示 ”汉“ 字和自己的中文姓名
+##5 汉字的字符显示
+请参考以下2篇技术文档， <a href="http://wenku.baidu.com/view/cb9fe505cc17552707220865.html"> 漫谈字符集和编码 </a> 和
+<a href="http://wenku.baidu.com/view/395f895d312b3169a451a489.html"> 汉字点阵字库原理 </a> 完成以下要求，在终端 Console 下显示 ”汉“ 字和自己的中文姓名
  
 
 #Chap 9:指针
