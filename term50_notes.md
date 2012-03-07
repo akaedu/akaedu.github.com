@@ -12,7 +12,7 @@ title: 亚嵌就业班50期课堂笔记
 	bit 比特
 	byte 字节 = 8 bit -> ASCII 码表的构造
 
-记忆：
+记住几个常用的ASCII值： （可参考 man ascii）
 
 	0x30 -> '0'
 	0x41 -> 'A'
