@@ -16,7 +16,7 @@ category: tech
 </li>
 <li> 
   <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
-  <a href="/code/c_notes.html">C语言编程知识复习回顾 (整理自2012年46期C阶段课程串讲笔记)</a>   
+  <a href="/code/c_notes.html">C语言编程知识复习回顾 (整理自C阶段课程串讲笔记)</a>   
 </li> 
 </ul>
 
@@ -65,6 +65,10 @@ category: tech
 <li> <a href="/post/chapter_20.html">#20 查字典项目开题</a> </li>
 </ul>
 
+<li> 
+ <a href="test.html">新增课堂笔记 (位运算/指针和数组/字符串) </a> 
+</li>
+ 
 <p><br /><b>Contact maintainer:</b></p>
 
 <blockquote>
