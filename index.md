@@ -13,10 +13,6 @@ category: tech
   <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
   <a href="http://happypeter.github.com/LGCB/book/index.html" target="_blank">Linux Guide for Chinese Beginners</a> &nbsp; &nbsp; 
   <a href="http://happypeter.github.com/LGCB/book/zh/" target="_blank">[中文版]</a> （Peter Wang老师贡献） 
-</li>
-<li> 
-  <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
-  <a href="/code/c_notes.html">C语言编程知识复习回顾 (整理自C阶段课程串讲笔记)</a>   
 </li> 
 </ul>
 
@@ -65,11 +61,21 @@ category: tech
 <li> <a href="/post/chapter_20.html">#20 查字典项目开题</a> </li>
 </ul>
 
+##课堂笔记
+<ul>
 <li> 
- <a href="test.html">新增课堂笔记 (位运算/指针和数组/字符串) </a> 
+  <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
+  <a href="/code/c_notes.html">C语言编程知识复习回顾 (整理自C阶段课程串讲笔记)</a>   
 </li>
+<li> 
+ <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
+ <a href="test.html">新增50期课堂笔记 (位运算/指针和数组/字符串) </a> 
+</li>
+</ul>
  
-<p><br /><b>Contact maintainer:</b></p>
+<p>
+<b>Contact maintainer:</b>
+</p>
 
 <blockquote>
 <p>
