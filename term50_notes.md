@@ -516,14 +516,42 @@ title: 亚嵌就业班50期课堂笔记
 
 	#include <stdio.h>
 	
-	#define	N	2
-	#define	ALL	(10*10)
+	//#define	N	2
+	//#define	ALL	(10*10)
 	//#define	N	3
 	//#define	ALL	(10*10*10)
-	//#define	N	4
-	//#define	ALL	(10*10*10*10)
+	#define	N	4
+	#define	ALL	(10*10*10*10)
 	//#define	N	5
 	//#define	ALL	(10*10*10*10*10)
+	
+	void get_rand_num(int n, char * guess)
+	{
+		int counter = 0;
+		int digit = 0;
+		int flag = 0;
+	
+		srand(time(NULL));
+	
+		while (counter < n)
+		{
+			// get a rand digit in 0-9
+			digit = rand() % 10;
+	
+			if (!(flag & (1<<digit)))
+			{
+				*guess = digit + '0';
+	
+				guess++;
+				counter++;
+	
+				// set flag bit_n = 1
+				flag |= 1<<digit;
+			}
+		}
+		
+		return;
+	}
 	
 	void num_to_str(int num, char * str, int n)
 	{
@@ -630,11 +658,13 @@ title: 亚嵌就业班50期课堂笔记
 		int possible[ALL];
 		int counter = 0;
 	
-		char your_num[N+1];
+		char your_num[N+1] = "1234";
 	
 		printf("hello, pc guess num \n");
-		scanf("%s", your_num);
-	
+		//scanf("%s", your_num);
+		get_rand_num(N, your_num);
+		printf("your num: %s\n", your_num);
+		
 		for (i = 0; i < ALL; i++)
 		{
 			//printf("i = %d, ", i);
@@ -676,4 +706,3 @@ title: 亚嵌就业班50期课堂笔记
 		
 		return 0;
 	}
-
