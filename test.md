@@ -1,3 +1,9 @@
+---
+layout: post
+title: 亚嵌教育
+category: tech 
+---
+
 1
 #1 硬件原理图 (Schematic)
 ##1.1 核心板
