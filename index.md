@@ -83,15 +83,13 @@ category: tech
 <p>
 这个网站目前由亚嵌教育维护，如果你志愿参与这个网站的建设，请发邮件到亚嵌老师邮箱：<a
 href="mailto:teacher@akaedu.org?subject=feedback">teacher@akaedu.org</a><br>
-请网站志愿者自觉学习阅读以下技术文档：<br>
+欢迎两位新成员(QQ&LJB)加入志愿者团队参与网站维护。请网站志愿者自觉学习阅读以下技术文档：<br>
 <li> <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
  <a href="http://www.ituring.com.cn/article/828"> 使用开源技术写电子书 </a> <br> </li>
 <li> <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
  <a href="http://progit.org/book/zh/"> Pro Git 电子书 </a> <br> </li>
 <li> <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
  <a href="http://www.worldhello.net/gotgithub/"> 探索GitHub </a> <br> </li>
-
-（欢迎两位新成员(QQ&LJB)加入志愿者团队参与网站维护。）
 
 </p>
 </blockquote>
