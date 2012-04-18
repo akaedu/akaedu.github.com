@@ -3,7 +3,7 @@ layout: post
 title: 亚嵌教育
 category: tech 
 ---
-最近更新： 2012-4-16   
+最近更新： 2012-4-18  
 
 ##理论学习
 <ul>
@@ -73,8 +73,12 @@ category: tech
  <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
  <a href="term50_notes.html">新增50期课堂笔记 (位运算/指针和数组/字符串) </a> 
 </li>
+<li> 
+  <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
+  <a href="http://limingth.github.com/">开源学ARM</a>   
+</li>
 </ul>
- 
+
 <p>
 <b>Contact maintainer:</b>
 </p>
