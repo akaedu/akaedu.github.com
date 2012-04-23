@@ -75,7 +75,7 @@ category: tech
 </li>
 <li> 
   <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
-  <a href="http://limingth.github.com/">开源学ARM</a>   
+  <a href="http://limingth.github.com/">源码开放学ARM</a>   
 </li>
 </ul>
 
