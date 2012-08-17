@@ -15,7 +15,11 @@ category: tech
   <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
   <a href="http://happypeter.github.com/LGCB/book/index.html" target="_blank">Linux Guide for Chinese Beginners</a> &nbsp; &nbsp; 
   <a href="http://happypeter.github.com/LGCB/book/zh/" target="_blank">[中文版]</a> （Peter Wang老师贡献） 
-</li> 
+</li>
+<li> 
+  <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
+  <a href="http://limingth.github.com/">源码开放学ARM</a>  (开源电子书，工具，资料，源码下载)
+</li>
 </ul>
 
 ##视频学习
@@ -72,10 +76,6 @@ category: tech
 <li> 
  <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
  <a href="term50_notes.html">新增50期课堂笔记 (位运算/指针和数组/字符串) </a> 
-</li>
-<li> 
-  <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
-  <a href="http://limingth.github.com/">源码开放学ARM</a>   
 </li>
 </ul>
 
