@@ -8,7 +8,7 @@ category: tech
 ##理论学习
 <ul>
 <li> 
-  <a href="http://learn.akae.cn/" target="_blank">Linux C编程一站式学习</a> &nbsp; &nbsp;  
+  <a href="http://songjinshan.com/akabook/" target="_blank">Linux C编程一站式学习</a> &nbsp; &nbsp;  
   <a href="/book/" target="_blank">[本站镜像]</a> （San Soong老师贡献）
 </li>
 <li> 
