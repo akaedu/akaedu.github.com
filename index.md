@@ -36,7 +36,7 @@ category: tech
 ##编码练习
 <ul>
 <li> <a href="/code/primary_coding.html">范例代码基础</a> </li> 
-<li> <a href="http://akaedu.github.io/practice">课后练习题目</a> </li> 
+<li> <a href="https://akaedu.github.io/practice">课后练习题目</a> </li> 
 <li> 
   <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
   <a href="http://akaedu.codepad.org">在线编程环境</a> 
