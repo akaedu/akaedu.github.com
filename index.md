@@ -3,7 +3,7 @@ layout: post
 title: 亚嵌教育
 category: tech 
 ---
-最近更新： 2012-8-17  
+最近更新： 2022-1-14  
 
 ##理论学习
 <ul>
@@ -13,12 +13,12 @@ category: tech
 </li>
 <li> 
   <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
-  <a href="http://happypeter.github.com/LGCB/book/index.html" target="_blank">Linux Guide for Chinese Beginners</a> &nbsp; &nbsp; 
-  <a href="http://happypeter.github.com/LGCB/book/zh/" target="_blank">[中文版]</a> （Peter Wang老师贡献） 
+  <a href="https://happypeter.github.io/LGCB/book/index.html" target="_blank">Linux Guide for Chinese Beginners</a> &nbsp; &nbsp; 
+  <a href="https://happypeter.github.io/LGCB/book/zh/" target="_blank">[中文版]</a> （Peter Wang老师贡献） 
 </li>
 <li> 
   <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
-  <a href="http://limingth.github.com/">源码开放学ARM</a>  (开源电子书，工具，资料，源码下载)
+  <a href="https://limingth.github.io/">源码开放学ARM</a>  (开源电子书，工具，资料，源码下载)
 </li>
 </ul>
 
@@ -36,7 +36,7 @@ category: tech
 ##编码练习
 <ul>
 <li> <a href="/code/primary_coding.html">范例代码基础</a> </li> 
-<li> <a href="http://akaedu.github.com/practice">课后练习题目</a> </li> 
+<li> <a href="https://akaedu.github.io/practice">课后练习题目</a> </li> 
 <li> 
   <img border="0" src="http://www.akaedu.org/img/new2.gif" width="25" height="15">
   <a href="http://akaedu.codepad.org">在线编程环境</a> 
